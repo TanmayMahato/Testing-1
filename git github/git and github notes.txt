@@ -133,7 +133,13 @@ to sync the fork and the main project-
 => git reset --hard upstream/main
 => git push origin main
 
-make sure before making a new branch that the main branch i up to date
+make sure before making a new branch that the main branch is up to date
+
+---------------------------------------------------------------------------------------------------------------------
+
+Use 
+git push -f origin master => force pushes the master 
+
 
 
 
